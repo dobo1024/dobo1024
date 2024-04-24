@@ -1,3 +1,5 @@
+<!-- About me 关于我 -->
+## About Me
 - 👋 Hi, I’m @dobo1024
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,7 +7,12 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## PC Software Tools Medals
 
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Static Badge](https://img.shields.io/badge/Telegram%20Desktop-%2326A5E4?logo=Telegram&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 <!---
 dobo1024/dobo1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
